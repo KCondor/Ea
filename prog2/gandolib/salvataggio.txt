@@ -1,0 +1,5 @@
+Gianfranco 500
+Beppe 100
+Emanuele 300
+Giacomo 400
+Claudio 200
